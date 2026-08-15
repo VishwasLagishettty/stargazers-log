@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "awesome-lib",
+      "owner": "octocat",
+      "html_url": "https://github.com/octocat/awesome-lib",
+      "description": "A small library for doing awesome things.",
+      "language": "JavaScript",
+      "stargazers_count": 1234,
+      "starred_at": "2026-08-01T12:34:56Z"
+    },
+    {
+      "id": 2,
+      "name": "fast-server",
+      "owner": "netguru",
+      "html_url": "https://github.com/netguru/fast-server",
+      "description": "Lightweight fast HTTP server with minimal footprint.",
+      "language": "Go",
+      "stargazers_count": 842,
+      "starred_at": "2026-07-22T09:15:30Z"
+    },
+    {
+      "id": 3,
+      "name": "design-system",
+      "owner": "ui-team",
+      "html_url": "https://github.com/ui-team/design-system",
+      "description": "Shared UI components and tokens for our apps.",
+      "language": "TypeScript",
+      "stargazers_count": 2045,
+      "starred_at": "2026-06-12T18:00:00Z"
+    }
+  ]
